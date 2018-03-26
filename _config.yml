@@ -17,8 +17,8 @@ title: Harvard IMs
 email: jhe1120@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Everything you need to know about Harvard IMs.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /intramurals # the subpath of your site, e.g. /blog
+url: http://jeffreydinghe.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jdhe1120
 github_username:  jdhe1120
 
