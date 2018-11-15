@@ -34,13 +34,13 @@ Welcome to the IM website!
     <td>4th</td>
   </tr>
   <tr>
-    <td>Dunster</td>
-    <td>612</td>
+    <td>Kirkland</td>
+    <td>617</td>
     <td>5th</td>
   </tr>
   <tr>
-    <td>Kirkland</td>
-    <td>617</td>
+    <td>Dunster</td>
+    <td>612</td>
     <td>6th</td>
   </tr>
   <tr>
